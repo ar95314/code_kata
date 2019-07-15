@@ -1,7 +1,7 @@
-v=int(input("Enter the integer: "))
-if v>0:
+p=int(input("Enter the integer: "))
+if p>0:
     print("positive")
-elif v==0:
+elif p==0:
     print("Zero")
 else:
     print("Negative")
