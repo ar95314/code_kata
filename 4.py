@@ -1,10 +1,10 @@
-x=int(input("Enter the number1:"))
-y=int(input("Enter the number2:"))
-z=int(input("Enter the number3:"))
-if(x>y):
-  if(x>z):
-    print(x)
-elif(y>z):
-  print(y)
+a=int(input("Enter the number1:"))
+b=int(input("Enter the number2:"))
+c=int(input("Enter the number3:"))
+if(a>b):
+  if(a>c):
+    print(a)
+elif(b>c):
+  print(b)
 else:
-  print(z)
+  print(c)
